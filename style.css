@@ -1,0 +1,95 @@
+body {
+    background-color: #29292C;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bigPage {
+    margin: 30px 350px 30px 350px;
+    /* border: 2px solid red; */
+}
+
+.robot {
+    font-size: 3.2em;
+}
+
+.book {
+    font-size: 1.75em;
+}
+
+.form-label {
+    font-size: 1.5em;
+}
+
+.form-input {
+    padding: 10px;
+    font-size: 1.5em;
+    width: 80%;
+}
+
+.form-input:focus {
+    outline: 1px solid red;
+}
+
+.form-btn {
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: #6931E0;
+    border: 2px solid #6931E0;
+    color: white;
+    transform: translateX(-5px);
+}
+
+.form-btn:hover {
+    cursor: pointer;
+    background-color: #5931E0;
+}
+
+.signUp {
+    font-size: 1.4em;
+}
+
+.link {
+    color: #FFE7A3;
+}
+
+.link:hover {
+    color: white;
+}
+
+hr {
+    margin: 50px 0;
+}
+
+.tags a {
+    text-decoration: none;
+    color: white;
+}
+
+.tags a:hover, .heading a:hover {
+    color: #FFE7A3;
+}
+
+.heading a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.4em;
+}
+
+.name a {
+    text-decoration: none;
+    color: #FFE7A3;
+}
+
+.name a:hover {
+    color: white;
+}
+
+.para {
+    font-size: 1.3em;
+    line-height: 30px;
+}
+
+.eachDiv {
+    margin-bottom: 70px;
+}
